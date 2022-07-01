@@ -1,5 +1,14 @@
-<h1>Hi 👋 I'm Mayur Panchal</h1>
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> I'm Mayur Panchal</h1>
 <h3>A passionate front-end developer from India 🇮🇳</h3>
+<br/>
+
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning TypeScript, Remix, Tailwind
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Express
+- 📫 &nbsp;How to reach me: [@immayurpanchal](https://twitter.com/immayurpanchal)
+- 👨‍💻 &nbsp;Read more about my projects at [immayurpanchal.vercel.app](https://immayurpanchal.vercel.app)
+- ⚡ &nbsp;Fun fact: I :heart: programming and reading books. Currently I'm reading $100 Startup
+<br/>
 <br/>
 <p>
   <img style='margin-right: 10px' src="https://komarev.com/ghpvc/?username=immayurpanchal" alt="immayurpanchal" /> 
@@ -8,6 +17,7 @@
   <img src='https://img.shields.io/github/issues/immayurpanchal/immayurpanchal' alt='Total issues' />
 </p>
 <br/>
+
 <p>
   <img
     src='https://github-readme-stats.vercel.app/api?username=immayurpanchal&count_private=true&show_icons=true&bg_color=151515&theme=dark'
