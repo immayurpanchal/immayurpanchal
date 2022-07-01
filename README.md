@@ -10,6 +10,14 @@
 - ⚡ &nbsp;Fun fact: I :heart: programming and reading books. Currently I'm reading $100 Startup
 <br/>
 <br/>
+
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=immayurpanchal&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
+  <br/>
+
+
 <p>
   <img style='margin-right: 10px' src="https://komarev.com/ghpvc/?username=immayurpanchal" alt="immayurpanchal" /> 
   <img style='margin-right: 10px' src='https://img.shields.io/badge/OpenSource-%F0%9F%92%99-brightgreen' alt='Open Source is Love'> 
