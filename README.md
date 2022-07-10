@@ -8,7 +8,10 @@
   <img src='https://img.shields.io/github/issues/immayurpanchal/immayurpanchal' alt='Total issues' />
 </p>
 
+
 <br/>
+<div style="display: flex;">
+<div>
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning TypeScript, Remix, Tailwind
@@ -16,8 +19,9 @@
 - 📫 &nbsp;How to reach me: [@immayurpanchal](https://twitter.com/immayurpanchal)
 - 👨‍💻 &nbsp;Read more about my projects at [immayurpanchal.vercel.app](https://immayurpanchal.vercel.app)
 - ⚡ &nbsp;Fun fact: I :heart: programming and reading books. Currently I'm reading $100 Startup
+
 <br/>
-<br/>
+
 
 📊 &nbsp;**This week I spent my time on**
 
@@ -25,7 +29,13 @@
 <img
     src='https://github-readme-stats.vercel.app/api?username=immayurpanchal&count_private=true&&hide_title=true&hide_border=true&show_icons=true&bg_color=151515&theme=codeSTACKr'
     alt='immayurpanchal github stats' />
-<br/>
+
+</div>
+
+<a href="https://app.daily.dev/immayurpanchal"><img src="https://api.daily.dev/devcards/c779098896524e5c8c29e8b5dbfb3ceb.png?r=6zw" width="400" alt="Mayur Panchal's Dev Card"/></a>
+
+</div>
+
 <p>
   
 </p>
