@@ -27,7 +27,7 @@
 
 ![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=immayurpanchal&hide_title=true&hide_border=true&langs_count=5&theme=codeSTACKr)
 <img
-    src='https://github-readme-stats.vercel.app/api?username=immayurpanchal&count_private=true&&hide_title=true&hide_border=true&show_icons=true&bg_color=151515&theme=codeSTACKr'
+    src='https://github-stats-readme-immayurpanchal.vercel.app/api?theme=codeSTACKr%27&bg_color=151515&hide_title=true&hide_border=true&count_private=true&username=immayurpanchal&show_icons=true'
     alt='immayurpanchal github stats' />
 
 </div>
